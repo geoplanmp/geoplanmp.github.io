@@ -78,6 +78,7 @@ footer {
     }
     .pink {
         width: 100%;
+        order: 1;
     }
     main section {
         width: 100%;
