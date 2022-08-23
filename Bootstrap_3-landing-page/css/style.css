@@ -1,0 +1,26 @@
+.bg-white {
+    background-color: white;
+}
+
+.padding {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.objectFit {
+    object-fit: cover;
+    height: 300px;
+}
+
+.widthImg {
+    max-width: 200px;
+}
+
+.backgroundImage {
+    background-image: url("../img/slider-1.jpg");
+    
+}
+
+.textFooterSize {
+    font-size: 0.8em;
+}
